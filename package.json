@@ -1,6 +1,6 @@
 {
   "name": "itsm-highvelocity-test-repo",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "private": true,
   "description": "itsm-highvelocity-test-repo \u2014 HTTP service",
   "main": "src/server.js",
