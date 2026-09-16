@@ -10,7 +10,7 @@ npm start        # listens on $PORT, default 8080
 npm test
 ```
 
-## Endpoints
+## Endpoint
 
 | Method | Path | Purpose |
 |---|---|---|
