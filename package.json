@@ -1,0 +1,18 @@
+{
+  "name": "itsm-highvelocity-test-repo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "itsm-highvelocity-test-repo \u2014 HTTP service",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test",
+    "lint": "find src test -name '*.js' -exec node --check {} +"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
